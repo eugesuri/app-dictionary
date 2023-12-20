@@ -19,6 +19,7 @@ function App() {
             href="https://github.com/eugesuri/app-dictionary"
             title="Eugenia Brunetti Github"
             target="_blank"
+            rel="noreferrer"
           >
             Github
           </a>{" "}
