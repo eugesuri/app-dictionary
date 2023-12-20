@@ -28,6 +28,7 @@ function App() {
             href="https://app.netlify.com/sites/cosmic-zabaione-3f16cb/overview"
             title="Eugenia Brunetti netlify"
             target="_blank"
+            rel="noreferrer"
           >
             Netlify
           </a>
